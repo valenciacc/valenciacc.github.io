@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: A beginners guide to assembly
+image: /img/assembly.jpg
 ---
 
 This is my first post, how exciting!
