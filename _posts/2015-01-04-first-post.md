@@ -8,7 +8,7 @@ One topic that has intrigued me for the longest time was low-level programming, 
 
 For example, a basic x86_64 assembly language code to exit a program would go as follows 
 
-```
+```assembly
 push 60;
 pop rax;
 syscall;
@@ -20,7 +20,7 @@ However, the same call would be slightly different in x86. Instead of using the 
 
 As such, it would be along the lines of 
 
-```
+```assembly
 push 0x01;
 pop eax;
 int 0x80
