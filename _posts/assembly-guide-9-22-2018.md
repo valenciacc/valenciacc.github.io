@@ -26,3 +26,5 @@ pop eax;
 int 0x80
 ```
 
+Anyhow. These are simple demonstrations and are not entirely practical. However, using this knowledgre & with a little tinkering, you should be able to write some impressive programs to do simple tasks such as executing a shell, or reading and writing a file over a socket.
+
