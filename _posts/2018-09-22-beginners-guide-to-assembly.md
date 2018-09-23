@@ -28,3 +28,4 @@ int 0x80
 
 Anyhow. These are simple demonstrations and are not entirely practical. However, using this knowledgre & with a little tinkering, you should be able to write some impressive programs to do simple tasks such as executing a shell, or reading and writing a file over a socket.
 
+More advanced examples could be found on places like [shellstorm](http://shell-storm.org/shellcode/) which have compiled opcodes for various architectures / usages in exploit-development scenarious
